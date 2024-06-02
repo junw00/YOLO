@@ -1,0 +1,12 @@
+path: D:\hackathon_traning
+train: .\train
+val: .\val
+test: .\test
+
+names:
+  0: "벨트 미착용"
+  1: "벨트 착용"
+  2: "안전모 미착용"
+  3: "안전모 착용"
+  4: "용접 마스크 미착용"
+  5: "용접 마스크 착용"
